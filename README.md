@@ -66,7 +66,3 @@ Based on the dashboard findings, the company could consider:
 - `Employee_Attrition_Dashboard.pbix` - Power BI dashboard file
 - `WA_Fn-UseC--HR-Employee-Attrtion` - Source dataset found on Kaggle
 - `Compensation_Screenshot.png`,`Demographic_Screenshot.png`, `Executive_Screenshot.png`  - Images of dashboard pages
-
-
-### Job & Compensation Analysis
-![Job & Compensation Analysis](screenshots/job_compensation_analysis.png)
