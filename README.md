@@ -46,13 +46,14 @@ This page explores how attrition relates to income, tenure, job satisfaction, wo
 - Average Job Satisfaction
 
 ## Key Findings
-- The overall employee attrition rate is 16.12%.
-- Research & Development has the highest attrition count, while Sales and Human Resources have higher attrition rates.
-- Employees working overtime appear to have higher turnover risk.
-- Employees under 25 have the highest attrition rate by age group.
-- Employees with less than 2 years at the company have the highest attrition rate by tenure group.
-- Lower income groups appear to have higher attrition rates.
-- Lower job satisfaction and lower work-life balance scores are associated with higher attrition.
+- Overall employee attrition was 16.12%, with 237 employees leaving out of roughly 1,000 total employees.
+- Employees with under 2 years of tenure had the highest attrition rate, suggesting early-career retention may be a major concern.
+- The under $3K income group had the highest attrition rate, showing that lower monthly income may be associated with higher turnover.
+- Attrition was highest among employees with the lowest work-life balance and job satisfaction scores.
+- The Sales department had the highest attrition rate, while Research & Development had the highest total attrition count.
+- Laboratory Technicians, Sales Executives, and Research Scientists had the highest attrition counts by job role.
+- Employees working overtime accounted for a slightly larger share of attrition than employees not working overtime.
+- The under 25 age group had the highest attrition rate, even though the largest employee groups were ages 25–34 and 35–44.
 
 ## Recommendations
 Based on the dashboard findings, the company could consider:
